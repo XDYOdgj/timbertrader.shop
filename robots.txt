@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://timbertrader.shop/sitemap.xml
